@@ -1,0 +1,4 @@
+[2026-11-04 18:21:17] ERROR uid=4 Forbidden access {"role":"sales","uri":"/ISCM/warehouse/ajax/dashboard_stats.php"}
+[2026-11-04 18:21:17] ERROR uid=4 Forbidden access {"role":"sales","uri":"/ISCM/warehouse/ajax/dashboard_stats.php"}
+[2026-11-04 18:21:32] ERROR uid=4 Forbidden access {"role":"sales","uri":"/ISCM/warehouse/pages/dashboard.php"}
+[2026-11-04 18:21:32] ERROR uid=4 Forbidden access {"role":"sales","uri":"/ISCM/warehouse/pages/dashboard.php"}
